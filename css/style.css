@@ -1590,4 +1590,8 @@ footer .credit a {
   .bioki p {
     font-size: 240%;
   }
+
+  .bio p {
+    font-size: 200%;
+  }
 }
